@@ -1,4 +1,4 @@
-# Analyzing 10Gb of Yelp Reviews Data using PySpark
+# Analyzing 10Gb of Yelp Reviews Data with PySpark
 
 We will analyze a subset of Yelp's business, reviews and user data. This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) although we have taken steps to pull this data into a publis s3 bucket: `s3://yelp-9760-dataset/*.json`
 
