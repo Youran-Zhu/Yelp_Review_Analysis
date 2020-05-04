@@ -7,5 +7,7 @@ We will analyze a subset of Yelp's business, reviews and user data. This dataset
 ## Cluster, Notebook Configs & S3 bucket
 
 ![notebook](https://github.com/Youran-Zhu/Yelp_Review_Analysis/blob/master/assets/notebook.png)
+
 ![cluster](https://github.com/Youran-Zhu/Yelp_Review_Analysis/blob/master/assets/cluster.png)
+
 ![S3](https://github.com/Youran-Zhu/Yelp_Review_Analysis/blob/master/assets/s3.png)
